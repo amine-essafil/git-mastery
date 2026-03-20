@@ -18,5 +18,6 @@ function startProject(project) {
 }
 console.log("Module: M01 - Basics");
 console.log("Status: In progress");
-
+console.log("practicing git diff");
+console.log("starting exercice 3");
 startProject(project);
