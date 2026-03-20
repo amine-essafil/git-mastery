@@ -17,5 +17,6 @@ function startProject(project) {
   console.log(`Goal: ${project.goal}`);
 }
 console.log("Module: M01 - Basics");
+console.log("Status: In progress");
 
 startProject(project);
