@@ -15,7 +15,7 @@ to real-world team workflows.
 
 | Module | Topic | Status |
 |--------|-------|--------|
-| M01 | Basics — init, add, commit, log | 🔄 In progress |
+| M01 | Basics — init, add, commit, log | ✅ Done |
 | M02 | Branching — create, switch, delete | ⏳ Pending |
 | M03 | Remotes — push, pull, fetch | ⏳ Pending |
 | M04 | Merging — fast-forward vs merge commit | ⏳ Pending |
