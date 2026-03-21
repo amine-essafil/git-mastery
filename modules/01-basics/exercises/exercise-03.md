@@ -17,4 +17,4 @@ This is something you will use every week on a real team.
 ## Rule to remember
 amend rewrites the last commit.
 Never amend after you have pushed — it rewrites
-history that others may already have pulled.
+history that others may already have pulled.Êê
