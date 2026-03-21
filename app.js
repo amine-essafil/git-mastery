@@ -5,7 +5,7 @@ const project = {
   name: "git-mastery",
   author: "Amine Essafil",
   goal: "Master Git version control through hands-on practice",
-  currentModule: "M01 - Basics (complete)",
+  currentModule: "M02 - Branching",
   status: "in progress"
 };
 
@@ -16,8 +16,7 @@ function startProject(project) {
   console.log(`Status: ${project.status}`);
   console.log(`Goal: ${project.goal}`);
 }
-console.log("Module: M01 - Basics");
+console.log("Module: M02 - Branching");
 console.log("Status: In progress");
-console.log("practicing git diff");
-console.log("starting exercice 3");
+
 startProject(project);
