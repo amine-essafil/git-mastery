@@ -8,7 +8,7 @@ const project = {
   currentModule: "M02 - Branching",
   status: "in progress"
 };
-
+ 
 function startProject(project) {
   console.log(`Starting project: ${project.name}`);
   console.log(`Author: ${project.author}`);
