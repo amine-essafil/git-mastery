@@ -5,7 +5,7 @@ const project = {
   name: "git-mastery",
   author: "Amine Essafil",
   goal: "Master Git version control through hands-on practice",
-  currentModule: "M02 - Branching",
+  currentModule: "M03 - Remotes",
   status: "in progress"
 };
  
