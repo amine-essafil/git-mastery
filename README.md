@@ -17,7 +17,7 @@ to real-world team workflows.
 |--------|-------|--------|
 | M01 | Basics — init, add, commit, log | ✅ Done |
 | M02 | Branching — create, switch, delete | ✅ Done |
-| M03 | Remotes — push, pull, fetch | ⏳ Pending |
+| M03 | Remotes — push, pull, fetch | ✅ Done |
 | M04 | Merging — fast-forward vs merge commit | ⏳ Pending |
 | M05 | Rebasing — rebase, interactive rebase | ⏳ Pending |
 | M06 | Conflicts — create and resolve | ⏳ Pending |
