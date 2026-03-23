@@ -20,3 +20,5 @@ console.log("Module: M02 - Branching");
 console.log("Status: In progress");
 
 startProject(project);
+
+console.log("testing fetch");
