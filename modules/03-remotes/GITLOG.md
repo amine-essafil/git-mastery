@@ -1,5 +1,5 @@
 # GITLOG — M03 Remotes
-*Amine Essafil — notes from doing the exercises*
+— notes from doing the exercises*
 
 ---
 
