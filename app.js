@@ -28,3 +28,6 @@ console.log("just testing rebase ");
 console.log("nothing ");
 
 console.log("fast-forward merge practice");
+console.log("second commit on feature branch");
+
+console.log("fast");
